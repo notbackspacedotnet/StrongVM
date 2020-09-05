@@ -1,0 +1,45 @@
+StrongVM 2020.10
+-- [Added]   Select All
+-- [Removed] Debugger Detected Message
+-- [Removed] Encrypt IL
+-- [Removed] Virtualize All
+-- [Update]  Anti Debug
+-- [Update]  Runtime
+
+StrongVM 2020.09
+-- [Bug Fix] CLR Exception
+
+StrongVM 2020.08
+-- [Bug Fix] Slow Process
+
+StrongVM 2020.07
+-- [Added]       Debugger Detected Message
+-- [Bug Fix]     Anti Debug
+-- [Runtime Fix] VirusTotal false report
+-- [Update]      Encrypt IL
+-- [Update]      Output Log
+
+StrongVM 2020.06
+-- [Bug Fix] Resources Encryption
+-- [Update]  dnlib 3.3.2.0
+
+StrongVM 2020.05
+-- [Replaced] dnlib new to old
+
+StrongVM 2020.04
+-- [Bug Fix]  Close Background Process
+-- [Replaced] Default Encrypt IL to Option
+
+StrongVM 2020.03
+-- [Added]    Custom Rename Method
+-- [Added]    Example
+-- [Added]    Resources Encryption
+-- [Added]    String Virtualize
+-- [Enabled]  Anti Debug
+-- [Replaced] Anti Debug
+
+StrongVM 2020.02
+-- [Bug Fix] Runtime Name
+
+StrongVM 2020.01
+-- Initial Release
